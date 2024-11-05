@@ -178,7 +178,7 @@ project_creation_agent = Agent(
     8.Impacto social
     9.Cultura
     10.Transformación digital
-    Pero siempre escogeras la 5
+    Pero siempre escogeras entre el 1 al 10
     Finamente muestrame el json que envio a la API externa
     """,
     functions=[create_project, create_random_project]
