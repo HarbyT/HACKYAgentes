@@ -172,10 +172,10 @@ project_creation_agent = Agent(
     2.Sostenibilidad
     3.Tecnología
     4.Educación
-    5.Salud
-    6.Infraestructura
+    5.Ciberseguridad
+    6.Ingles
     7.Emprendimiento
-    8.Impacto social
+    8.Habilidades blandas
     9.Cultura
     10.Transformación digital
     Pero siempre escogeras entre el 1 al 10
@@ -208,7 +208,7 @@ learner_management_agent = Agent(
 messages = [
     {
         "role": "user",
-        "content": "Quiero crear un proyecto aleatorio."
+        "content": "Quiero crear únicamente un proyecto aleatorio."
     }
 ]
 
